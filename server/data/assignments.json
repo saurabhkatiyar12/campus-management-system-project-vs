@@ -1,0 +1,38 @@
+[
+  {
+    "id": "asgn-1771496184678",
+    "title": "Smoke Assignment 1771496184672",
+    "description": "Smoke test assignment",
+    "course": "Smoke Test 101",
+    "dueDate": "2026-02-19",
+    "createdBy": "faculty-001",
+    "createdByName": "Default Faculty",
+    "createdAt": "2026-02-19T10:16:24.678Z",
+    "submissions": [
+      {
+        "studentId": "student-001",
+        "studentName": "Default Student",
+        "content": "Smoke test student submission",
+        "submittedAt": "2026-02-19T10:16:24.683Z"
+      }
+    ]
+  },
+  {
+    "id": "asgn-1771496314312",
+    "title": "Smoke Assignment 1771496314308",
+    "description": "Smoke test assignment",
+    "course": "Smoke Test 101",
+    "dueDate": "2026-02-19",
+    "createdBy": "faculty-001",
+    "createdByName": "Default Faculty",
+    "createdAt": "2026-02-19T10:18:34.312Z",
+    "submissions": [
+      {
+        "studentId": "student-001",
+        "studentName": "Default Student",
+        "content": "Smoke test student submission",
+        "submittedAt": "2026-02-19T10:18:34.319Z"
+      }
+    ]
+  }
+]

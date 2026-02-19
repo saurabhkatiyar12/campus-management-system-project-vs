@@ -1,0 +1,29 @@
+[
+  {
+    "id": "admin-001",
+    "name": "Admin",
+    "email": "admin@campus.edu",
+    "password": "$2b$10$Ao0VQCCrZlrSOkg7acqQTe9n1WiKGz9RhhvHW5zG/ojxsugk1bSnK",
+    "role": "admin",
+    "department": "Administration",
+    "createdAt": "2025-09-01T00:00:00.000Z"
+  },
+  {
+    "id": "faculty-001",
+    "name": "Default Faculty",
+    "email": "faculty@campus.edu",
+    "password": "$2b$10$n9j.krnoDSIfDk9NX/uYye/3Ex6fP9zjVHoqP84N4uSjuCcJA5ap2",
+    "role": "faculty",
+    "department": "Computer Science",
+    "createdAt": "2026-02-19T10:15:35.399Z"
+  },
+  {
+    "id": "student-001",
+    "name": "Default Student",
+    "email": "student@campus.edu",
+    "password": "$2b$10$k88JkaBnEC7ck4aac7zs0.HTLtN5EAZEEuBLZVovPGu0DGQW3ni9u",
+    "role": "student",
+    "department": "Computer Science",
+    "createdAt": "2026-02-19T10:15:35.493Z"
+  }
+]

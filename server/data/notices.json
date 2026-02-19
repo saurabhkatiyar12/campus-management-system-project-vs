@@ -1,0 +1,24 @@
+[
+  {
+    "id": "notice-1771496314303",
+    "title": "Smoke Notice 1771496314298",
+    "content": "Smoke test notice content",
+    "priority": "normal",
+    "targetAudience": "students",
+    "postedBy": "faculty-001",
+    "postedByName": "Default Faculty",
+    "postedByRole": "faculty",
+    "createdAt": "2026-02-19T10:18:34.303Z"
+  },
+  {
+    "id": "notice-1771496184672",
+    "title": "Smoke Notice 1771496184666",
+    "content": "Smoke test notice content",
+    "priority": "normal",
+    "targetAudience": "students",
+    "postedBy": "faculty-001",
+    "postedByName": "Default Faculty",
+    "postedByRole": "faculty",
+    "createdAt": "2026-02-19T10:16:24.672Z"
+  }
+]
